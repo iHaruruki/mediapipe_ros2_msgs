@@ -10,3 +10,6 @@ uint16 index             # numeric landmark index / ランドマークid
 float32 x                # pixel coordinates in the full image / 画像ピクセルx（フル画像座標）
 float32 y                # pixel coordinates in the full image / 画像ピクセルy（フル画像座標）
 ```
+
+## 📚 References
+- [Creating custom msg and srv files](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Custom-ROS2-Interfaces.html)
